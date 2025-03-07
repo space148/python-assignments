@@ -1,0 +1,13 @@
+Types of AI:
+
+1. Narrow or Weak AI: Designed to perform a specific task, like facial recognition, language translation, or playing chess.
+2. General or Strong AI: A hypothetical AI that possesses human-like intelligence, reasoning, and problem-solving abilities.
+3. Superintelligence: Significantly more intelligent than the best human minds, potentially leading to exponential growth in technological advancements.
+
+AI Applications:
+
+1. Virtual Assistants: Siri, Google Assistant, Alexa
+2. Image and Speech Recognition: Self-driving cars, security surveillance
+3. Natural Language Processing (NLP): Chatbots, language translation
+4. Predictive Maintenance: Industrial equipment monitoring
+5. Healthcare: Medical diagnosis, personalized medicine
